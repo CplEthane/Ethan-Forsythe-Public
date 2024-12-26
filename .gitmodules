@@ -1,3 +1,6 @@
 [submodule "Pac-Man-6280-Public"]
 	path = Pac-Man-6280-Public
 	url = https://github.com/CplEthane/Pac-Man-6280-Public
+[submodule "2D-Game-Engine-Windows"]
+	path = 2D-Game-Engine-Windows
+	url = https://github.com/CplEthane/2D-Game-Engine-Windows
