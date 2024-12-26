@@ -4,3 +4,6 @@
 [submodule "2D-Game-Engine-Windows"]
 	path = 2D-Game-Engine-Windows
 	url = https://github.com/CplEthane/2D-Game-Engine-Windows
+[submodule "Raylib_Repeating_Background_Demo"]
+	path = Raylib_Repeating_Background_Demo
+	url = https://github.com/CplEthane/Raylib-VN-Repeating-Background-Demo
