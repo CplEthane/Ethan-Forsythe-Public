@@ -7,3 +7,6 @@
 [submodule "Raylib_Repeating_Background_Demo"]
 	path = Raylib_Repeating_Background_Demo
 	url = https://github.com/CplEthane/Raylib-VN-Repeating-Background-Demo
+[submodule "Quest-Procedural-Generator"]
+	path = Quest-Procedural-Generator
+	url = https://github.com/CplEthane/Quest-Procedural-Generator-with-DFS
